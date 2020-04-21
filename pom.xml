@@ -15,6 +15,7 @@
   <properties>
     <bundle.symbolicName>org.beangle.bundles.kindeditor</bundle.symbolicName>
     <bundle.namespace>org.beangle.bundles.kindeditor</bundle.namespace>
+    <bundle.code>kindeditor</bundle.code>
   </properties>
 
 </project>
